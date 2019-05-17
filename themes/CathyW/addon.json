@@ -1,0 +1,16 @@
+{
+    "name": "CathyW",
+    "description": "Vanilla Forums Theme.",
+    "version": "1.0.0",
+    "hidden": false,
+    "key": "CathyW",
+    "type": "theme",
+    "priority": 1000,
+    "authors": [
+      {
+        "name": "Cathy Wang",
+        "email": "wangjie0923@gmail.com",
+        "homepage": "https://github.com/cathyjw"
+      }
+    ]
+}
