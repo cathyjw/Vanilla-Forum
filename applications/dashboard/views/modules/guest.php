@@ -1,6 +1,6 @@
 <?php if (!defined('APPLICATION')) exit(); ?>
 <div class="Box GuestBox">
-    <h4><?php echo t('Howdy, Stranger!'); ?></h4>
+    <h4><?php echo t('Hi, Guest!'); ?></h4>
 
     <p><?php echo t($this->MessageCode, $this->MessageDefault); ?></p>
 

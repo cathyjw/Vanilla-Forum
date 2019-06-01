@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\applications",
+    "\\applications\\vanilla",
+    "\\applications\\vanilla\\controllers",
+    "\\applications\\vanilla\\controllers\\api",
+    "\\applications\\vanilla\\models",
+    "\\applications\\vanilla\\modules",
+    "\\applications\\vanilla\\settings",
+    "\\applications\\vanilla\\views",
+    "\\applications\\vanilla\\views\\discussion",
+    "\\applications\\vanilla\\views\\vanillasettings"
+  ],
+  "SelectedNode": "\\applications\\vanilla\\settings\\class.hooks.php",
+  "PreviewInSolutionExplorer": false
+}

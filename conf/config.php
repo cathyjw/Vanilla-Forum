@@ -35,7 +35,7 @@ $Configuration['Garden']['Version'] = 'Undefined';
 $Configuration['Garden']['CanProcessImages'] = true;
 $Configuration['Garden']['MobileInputFormatter'] = 'Rich';
 $Configuration['Garden']['Installed'] = true;
-$Configuration['Garden']['Theme'] = 'default';
+$Configuration['Garden']['Theme'] = 'bittersweet';
 
 // Plugins
 $Configuration['Plugins']['GettingStarted']['Dashboard'] = '1';
@@ -57,4 +57,4 @@ $Configuration['Vanilla']['Password']['SpamCount'] = 2;
 $Configuration['Vanilla']['Password']['SpamTime'] = 1;
 $Configuration['Vanilla']['Password']['SpamLock'] = 120;
 
-// Last edited by Cathy (::1) 2019-05-17 00:58:17
+// Last edited by Cathy (::1) 2019-05-17 18:33:42

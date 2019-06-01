@@ -120,7 +120,8 @@ class DiscussionsController extends VanillaController {
         $this->addModule('BookmarkedModule');
         $this->addModule('TagModule');
 
-        $this->setData('Breadcrumbs', [['Name' => t('Recent Discussions'), 'Url' => '/discussions']]);
+        // CathyWang 2019-05-17
+        $this->setData('Breadcrumbs', [['Name' => t('Recent Discussions'), 'Url' => '/discussions/']]);
 
         $categoryModel = new CategoryModel();
         $followingEnabled = $categoryModel->followingEnabled();
